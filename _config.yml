@@ -13,13 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Test Course
+title: CSC-475
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+author: Syed Fahad Sultan
 baseurl: '/TestCourse' # the subpath of your site, e.g. /blog
 url: 'http://www.fahadsultan.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+# logo: "https://www.furman.edu/wp-content/uploads/sites/54/2019/02/OfficialLogos_936x720-768x591.jpg"
+favicon_ico: "assets/images/Bell-Tower-RGB.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.1
@@ -28,11 +31,14 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Schedule an appointment:
+    - 'http://www.fahadsultan.com'
+  # Just the Class on GitHub:
+  #   - 'https://github.com/kevinlin1/just-the-class'
+  Moodle:
+    - 'http://moodle.com'
 footer_content:
+  # "<img src='/assets/images/Bell-Tower-RGB.png'>"
 
 # Collections for website data
 collections:

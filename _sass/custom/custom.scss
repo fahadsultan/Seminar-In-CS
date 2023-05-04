@@ -7,6 +7,8 @@
 @import 'schedule';
 @import 'staffer';
 
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+
 // Overrides
 code {
   font-size: 14px;
@@ -55,4 +57,58 @@ summary {
       margin-top: 1em;
     }
   }
+}
+
+/*
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71; 
+}
+
+h1 {
+  font-weight: normal;
+}*/
+/*
+.side-bar {
+width: calc((100% - 1064px) / 2);
+min-width: 264px;
+}*/
+/*
+.main-header {
+margin-left: calc((100% - 1064px) / 2.5);
+max-width: 1200px;
+}
+.main-content {
+margin-left: calc((100% - 1064px) / 3);
+max-width: 1200px;
+}*/
+
+.side-bar{
+/*  background-color: #F8F6F0;*/
+  background-color: #FFFFFF;
+}
+
+a{
+  color:#000000;
+}
+
+a.hover{
+  color:#FFFFFF;
+}
+
+.schedule .schedule-event.class-meeting {
+background-color: #7253ed;
+}
+
+
+.site-title.lh-tight{
+  padding-left: 5rem;
+}
+
+.site-footer{
+  background-image: url('https://www.furman.edu/wp-content/uploads/2019/01/Bell-Tower/PNG/Bell-Tower-RGB.png');
 }

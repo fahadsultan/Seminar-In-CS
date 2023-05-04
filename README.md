@@ -1,14 +1,31 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Home
+nav_order: 0
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
   name: Just the Class
 ---
 
-# Just the Class
+# Seminar In Computer Science (Fall 2023)
+
+<br/>
+
+<!-- ![](https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZTGD2L2EFFOJANV7G752OAPVA.jpg) -->
+
+<!-- ![](https://news.artnet.com/app/news-upload/2019/11/6-1.jpg) -->
+
+![https://whitney.org/exhibitions/julie-mehretu](https://whitneymedia.org/assets/image/824555/large_JM_008_RPL_Retropistics_2001_copy.jpg)
+
+<!-- ![](https://whitneymedia.org/assets/image/698592/large_frank-stella_harran-ii_1967_silo_v1.jpg) -->
+<br/>
+
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
