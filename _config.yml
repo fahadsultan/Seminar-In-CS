@@ -17,7 +17,7 @@ title: CSC-475
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Syed Fahad Sultan
-baseurl: '/TestCourse' # the subpath of your site, e.g. /blog
+baseurl: '/seminar-in-cs' # the subpath of your site, e.g. /blog
 url: 'http://www.fahadsultan.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
