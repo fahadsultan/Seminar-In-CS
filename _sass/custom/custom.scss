@@ -96,19 +96,31 @@ a{
   color:#000000;
 }
 
-a.hover{
-  color:#FFFFFF;
+a:hover{
+  color:#FF7F50;
 }
+
+
 
 .schedule .schedule-event.class-meeting {
 background-color: #7253ed;
 }
 
+h1{  
+  font-weight: normal;
+
+}
 
 .site-title.lh-tight{
-  padding-left: 5rem;
+  // padding-top: 1rem;
+  padding-left: 3rem;
+/*  padding-left: 5rem;*/
 }
 
 .site-footer{
   background-image: url('https://www.furman.edu/wp-content/uploads/2019/01/Bell-Tower/PNG/Bell-Tower-RGB.png');
+}
+
+img {
+  border: 1px solid #E5E4E2;
 }
