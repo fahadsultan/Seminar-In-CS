@@ -3,7 +3,7 @@ layout: page
 title: Accomodations
 description: >-
     Course policies and information.
-parent: Syllabus
+parent: Policies
 ---
 
 <br/>

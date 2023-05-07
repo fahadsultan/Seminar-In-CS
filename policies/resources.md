@@ -1,18 +1,12 @@
 ---
 layout: page
-title: Textbook
+title: Additional Resources
 description: A listing of all the course staff members.
 ---
 <br/>
 
-## Textbook
+## Additional Resources
 <br/>
-
-* [The Data Science Design Manual by Steven S. Skiena](https://furman.bncollege.com/c/Data-Science-Design-Manual/p/MBS_2121948_used)
-
-* [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://www.mmds.org)
-
-<!-- <li><a href="">Foundations of Statistical Natural Language Processing by Chris Manning and Hinrich Schütze</a></li> -->
 
 ### Other Resources
 

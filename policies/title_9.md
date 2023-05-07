@@ -3,7 +3,7 @@ layout: page
 title: Nondiscrimination Policy and Sexual Misconduct
 description: >-
     Course policies and information.
-parent: Syllabus
+parent: Policies
 ---
 <br/>
 

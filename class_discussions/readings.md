@@ -4,6 +4,8 @@ title: Readings
 description: >-
     Course policies and information.
 nav_order: 3
+
+parent: 2. Class Discussions
 ---
 
 <!-- # Readings

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Purposeful Pathways
+title: 3. Purposeful Pathways
 description: A listing of all the course staff members.
+
+nav_order: 4
 ---
 <br/>
 ## Purposeful Pathways Participation

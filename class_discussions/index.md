@@ -1,21 +1,10 @@
 ---
 layout: page
-title: Syllabus
+title: 2. Class Discussions
 description: >-
     Course policies and information.
-nav_order: 10
+nav_order: 3
 has_children: true
----
-
-# Requirements
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 The computer science seminar is the capstone experience for CS and IT majors that includes:
@@ -88,67 +77,3 @@ Please discuss any necessary absences with me (see attendance policy below).
 ##### Active Participation
 
 Thoughtful contributions to the discussions will also be part of your class participation grade
-
-## Capstone Project
-
-For your capstone project, you will plan, execute, and present the results of a term-long project of your choosing. If you are an Information Technology major, your project must relate to your cognate discipline. Your project will likely take one of two forms:
-
-3.1.  You can conduct a literature review on a particular topic in computer science.
-
-3.2.  You can create an application, for example by implementing an algorithm or functional prototype from a research paper and applying a new idea to the implementation (extension, applying it to a new context, etc.).
-
-Other formats are possible. Meet with me to discuss ideas. Projects involving human participants will require approval from Furman’s IRB.
-
-In any case, you will conduct background research on your topic, though a literature review will require more extensive and systematic literature research than an application. In both cases, you will be asking a question and defending an argument in a final paper, in class presentation, and poster at Furman Engaged. For a literature review, your evidence will come from the literature; for an application, your primary evidence will come from the results of your application. Note that an application need not be robust, but must be sufficiently functional to illustrate your argument. In addition to our seminar discussions, many class sessions will be devoted to instruction on planning, executing, and presenting your project.
-
-### Milestones
-<p>The project includes required components and milestones:</p>
-<p>a) Topic selection – due: Thursday, January 30</p>
-<p>b) Prospectus paper and presentation – due: Tuesday, February 18</p>
-<p>c) Furman Engaged poster:</p>
-<p>  i. Draft 1 due: Thursday, March 19</p>
-<p>  ii. Revision: Thursday, March 26</p>
-<p>  iii. Final poster due and practice pitches: Tuesday, March 31</p>
-<p>  iv. Furman Engaged presentations: Tuesday, April 7</p>
-<p>d) Final paper:</p>
-<p>  a. Due: Tuesday, April 14</p>
-<p>  b. Revision and cover letter describing changes due: Friday, May 1 (our final exam)</p>
-<p>e) Peer reviews (2) – due: Tuesday, April 21</p>
-<p>f) Final presentation – Tuesday, April 21</p>
-<p>g) Project progress checks as indicated on Moodle (approximately weekly). </p>
-<p>These will be posted to Moodle and should be submitted in (Word or .pdf) format.</p>
-<h2>Handing in Assignments</h2>
-
-All assignments will be handed in electronically in Word or .pdf format on Moodle. Files must
-be submitted on Moodle 5 minutes PRIOR to class on the day they are due. Note the electronic
-submission has a timestamp to indicate your submission is on time. Remember discussion
-questions should also be emailed to the discussion leaders and me. If you complete an
-application as part of your term project, you must also submit your code, with instructions for
-compiling and running, (as a .zip file) by our final exam slot.
-
-
-## Pre-requisites
-
-* CSC-121 Introduction to Computer Programming
-
-## Fulfills requirements
-
-* Core course requirement for Data Analytics minor
-* Human Behavior GER
-
-## Course Description
-
-This is an introductory course that aims to teach the fundamentals of Data Mining, focusing broadly on:
-
-* Programming for Data Science
-* Unsupervised Learning
-* Supervised Learning
-* Ethical considerations in Data Mining
-
-## Course Goals
-<!-- 
-* Enable students to start careers as data scientists by providing experience working with real-world data, tools, and techniques
-
-* Empower students to apply computational and inferential thinking to address real-world problems -->
-
-On successful completion of the course, the students should have the ability to identify and apply appropriate data mining and/or machine learning techniques towards solving problems of pattern recogition, learning and prediction. The course also aims to instill in students a deep sensitivity of issues of algorithmic bias and fairness in data mining.

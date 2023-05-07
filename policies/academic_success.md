@@ -2,7 +2,7 @@
 layout: page
 title: Center for Academic Success
 description: The weekly event schedule.
-parent: Syllabus
+parent: Policies
 ---
 <br/>
 
