@@ -5,7 +5,7 @@ description: Grading policy for the course.
 parent: Policies
 ---
 
-## Grading
+<!-- ## Grading -->
 {:.no_toc}
 
 ## Table of contents
@@ -17,15 +17,25 @@ parent: Policies
 ---
 ## Grade Breakdown
 
-* Project 50%
-    * Proposal 10%
-    * Presentation 10%
-    * Final Report 20%
+### Purposeful Pathways:					10 %
 
-* Class Participation 50%
-    * Attendance 10%
-    * Readings 
-    * Discussion
+### Class Participation: 		40 %
+
+| Active participation  | 15 |
+| Reflections  | 15 |
+| Attendance  | 10 |
+
+
+### Project: 					50 %
+
+| Proposal  | 5 |
+| Literature Review  | 5 |
+| Data  | 5 |
+| Analysis  | 5|
+| Poster  | 10 |
+| Presentation  | 10 (Peers: 5 + Instructor: 5) |
+| Report  | 10 (Peers: 5 + Instructor: 5) |
+
 
 ## Grading Scale 
 (+/- at instructor's discretion)

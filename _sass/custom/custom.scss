@@ -93,11 +93,24 @@ max-width: 1200px;
 }
 
 a{
+  // color:#000000;
+  // text-decoration: underline;
+  // text-decoration-color: #000000;
+  text-decoration-style: wavy;
+}
+
+a{
+  color:#000000;
+  // color: #582C83;
+}
+
+.side-bar a{
   color:#000000;
 }
 
+
 a:hover{
-  color:#FF7F50;
+  font-weight: bolder;
 }
 
 

@@ -86,3 +86,5 @@ callouts:
   deadline:
     title: Deadline
     color: red
+  notice:
+    color: yellow

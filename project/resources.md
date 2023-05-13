@@ -2,13 +2,10 @@
 layout: page
 title: Additional Resources
 description: A listing of all the course staff members.
+parent: 2. Capstone Project
 ---
-<br/>
 
-## Additional Resources
 <br/>
-
-### Other Resources
 
 * [Jupyter Notebook User Guide](https://jupyter-notebook.readthedocs.io/en/stable/)
 

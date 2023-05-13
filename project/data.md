@@ -4,10 +4,10 @@ title: Data sets
 description: >-
     Course policies and information.
 nav_order: 2
-parent: Capstone Project
+parent: 2. Capstone Project
 ---
 
-* [Google Dataset Search](https://datasetsearch.research.google.com)
+<br/>
 
-* 
+* [Google Dataset Search](https://datasetsearch.research.google.com)
 

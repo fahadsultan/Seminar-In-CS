@@ -4,14 +4,13 @@ title: Latex
 description: >-
     Course policies and information.
 nav_order: 2
-parent: Capstone Project
+parent: 2. Capstone Project
 ---
 <br/>
 
-## LaTeX
+<!-- ## LaTeX
 
-<br/>
-
+<br/> -->
 
 You are expected to use LaTeX for your final report. You can use any Latex editor you like. I recommend [Overleaf](https://www.overleaf.com/). It is free and easy to use. You can also use [ShareLatex](https://www.sharelatex.com/).
 
@@ -27,14 +26,13 @@ Your report should be at least 4 pages long. You can use the following sections 
 * Methods
 * Results
 * Conclusion
-
-## Latex Tips
-
-* [Latex Tips](https://www.overleaf.com/learn/latex/Articles/Getting_started_with_LaTeX)
+* References
 
 ### Latex Resources
 
 * [Overleaf](https://www.overleaf.com/)
+
+* [Latex Tips](https://www.overleaf.com/learn/latex/Articles/Getting_started_with_LaTeX)
 
 * [Latex Tutorial](https://www.latex-tutorial.com/tutorials/)
 
@@ -42,8 +40,8 @@ Your report should be at least 4 pages long. You can use the following sections 
 
 * [Latex Cheat Sheet](https://wch.github.io/latexsheet/)
 
-* [Latex Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+* [Latex Symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 
-* [Latex Symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+* [Latex Symbols 2](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 
-* [Latex Symbols](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)
+* [Latex Symbols 3](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)
