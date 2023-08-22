@@ -12,7 +12,7 @@ parent: 2. Capstone Project
 
 <br/> -->
 
-You are expected to use LaTeX for your final report. You can use any Latex editor you like. I recommend [Overleaf](https://www.overleaf.com/). It is free and easy to use. You can also use [ShareLatex](https://www.sharelatex.com/).
+You are expected to use LaTeX for your final report. You can use any Latex editor you like. I recommend [Overleaf](https://www.overleaf.com/). It is free and easy to use.
 
 ## LaTeX Template
 
@@ -28,20 +28,20 @@ Your report should be at least 4 pages long. You can use the following sections 
 * Conclusion
 * References
 
-### Latex Resources
+<!-- ### Latex Resources -->
 
-* [Overleaf](https://www.overleaf.com/)
+<!-- * [Overleaf](https://www.overleaf.com/) -->
 
-* [Latex Tips](https://www.overleaf.com/learn/latex/Articles/Getting_started_with_LaTeX)
+<!-- * [Latex Tips](https://www.overleaf.com/learn/latex/Articles/Getting_started_with_LaTeX) -->
 
-* [Latex Tutorial](https://www.latex-tutorial.com/tutorials/)
+<!-- * [Latex Tutorial](https://www.latex-tutorial.com/tutorials/) -->
 
-* [Latex Wiki](https://en.wikibooks.org/wiki/LaTeX)
+<!-- * [Latex Wiki](https://en.wikibooks.org/wiki/LaTeX) -->
 
-* [Latex Cheat Sheet](https://wch.github.io/latexsheet/)
+<!-- * [Latex Cheat Sheet](https://wch.github.io/latexsheet/) -->
 
-* [Latex Symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+<!-- * [Latex Symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) -->
 
-* [Latex Symbols 2](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+<!-- * [Latex Symbols 2](https://www.caam.rice.edu/~heinken/latex/symbols.pdf) -->
 
-* [Latex Symbols 3](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)
+<!-- * [Latex Symbols 3](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf) -->

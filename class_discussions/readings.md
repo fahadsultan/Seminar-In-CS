@@ -21,7 +21,7 @@ parent: 1. Class Discussions
 <br/>
 
 <!-- **1.**  -->
-### **[Orientation](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)**<br/>
+### **[Orientation](../assets/papers/Orientation.pdf)**<br/>
 Richard W. Hamming,\
 _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
@@ -197,7 +197,7 @@ _Proceedings of the VLDB Endowment_ 2.2 (2009): 1493-1500.
 
 * Zhang, Jun, et al. ["Data-driven computational social science: A survey."](https://arxiv.org/pdf/2008.12372.pdf) Big Data Research 21 (2020): 100145.
 
-### **Seminal Papers**
+<!--- ### **Seminal Papers** 
 
 * [Information Management a Proposal](https://cds.cern.ch/record/369245/files/dd-89-001.pdf)<br/>
 Tim Berners-Lee\
@@ -216,7 +216,7 @@ CERN, 1989
 
 10. Software Engineering journal 
 
-<hr/>
+<hr/> --->
 
 
 * Nasehi, Seyed Mehdi, et al.\

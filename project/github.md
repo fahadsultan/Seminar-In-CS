@@ -19,10 +19,10 @@ You can find the official [Github tutorial here](https://guides.github.com/activ
 
 Github uses Git. Git is a version control system. You can find a [Git tutorial here](https://www.atlassian.com/git/tutorials/what-is-version-control). You can also find a [Git tutorial here](https://www.youtube.com/watch?v=HVsySz-h9r4).
 
-### Git Cheat Sheets
+<!-- ### Git Cheat Sheets -->
 
-* [Git Cheat Sheet 1](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+<!-- * [Git Cheat Sheet 1](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) -->
 
-* [Git Cheat Sheet 2](https://education.github.com/git-cheat-sheet-education.pdf)
+<!-- * [Git Cheat Sheet 2](https://education.github.com/git-cheat-sheet-education.pdf) -->
 
-* [Git Cheat Sheet 3](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+<!-- * [Git Cheat Sheet 3](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) -->

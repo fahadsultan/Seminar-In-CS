@@ -34,11 +34,11 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Schedule an appointment:
-    - 'http://www.fahadsultan.com'
+    - 'https://calendly.com/ssultan-dpq/'
   # Just the Class on GitHub:
   #   - 'https://github.com/kevinlin1/just-the-class'
   Moodle:
-    - 'http://moodle.com'
+    - 'https://courses.furman.edu/course/view.php?id=16183'
 footer_content:
   # "<img src='/assets/images/Bell-Tower-RGB.png'>"
 
@@ -88,3 +88,6 @@ callouts:
     color: red
   notice:
     color: yellow
+  tip:
+    color: green
+    title: Tip

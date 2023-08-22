@@ -21,6 +21,11 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 1:30 PM
+        end: 4:30 PM
+        location: 200 D Riley Hall
   - name: Tuesday
     events:
       - name: Busy
@@ -40,10 +45,9 @@ schedule:
       #   location: 271 Soda
   - name: Wednesday
     events:
-      - name: Office Hours
-        start: 8:30 AM
-        end: 3:30 PM
-        location: 200 D Riley Hall
+      - name: Busy
+        start: 2:30 PM
+        end: 4:30 PM
   - name: Thursday
     events:
       - name: Busy
@@ -62,4 +66,9 @@ schedule:
       #   end: 2:00 PM
       #   location: 271 Soda
   - name: Friday
+    events:
+      - name: Office Hours
+        start: 9:30 AM
+        end: 11:30 AM
+        location: 200 D Riley Hall
 ---

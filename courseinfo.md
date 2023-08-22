@@ -7,24 +7,29 @@ nav_order: 1
 
 ## Course Description 
 
-This is a seminal course in the Computer Science and Information Technology curriculum intended to provide students with the opportunity to develop their written and oral technical communication skills. The course is a core requirement for graduation for all Computer Science and Information Technology majors. 
-
+This is a seminar course in the Computer Science (CS) and Information Technology (IT) curriculum intended to provide students with the opportunity to develop their written and oral technical communication skills, while also applying knowledge from CS/IT courses towards a capstone project. The course is a core requirement for graduation for all Computer Science and Information Technology majors. 
 
 The course has three major components:
 
-1. A series of students-led **[Class Discussions](../class_discussions/)** focusing on weekly **[Assigned Articles](../class_discussions/readings/)** from Computer Science journals and conferences. 
+1. A series of students-led **[Class Discussions](../class_discussions/)**. There are going to two types of class discussions:
+
+    * Focusing on  **[Assigned Articles](../class_discussions/readings/)**
+
+    * Focusing on everyone's progress on **[Capstone Project](../project/)** 
+
+    * In addtion to classes, you are **required to meet with me _atleast_ once every two weeks** to have a one-on-one discussion on your progress on the project. Please use **[this link](https://calendly.com/ssultan-dpq/)** to schedule a time or just drop by. Failure to do so would result in deduction of points from your attendance grade.
 
 2. A significant term-long **[Capstone Project](../project/)** that is completed by each individual student. As output of the project, each student will individually produce: 
 
-    * a detailed report
+    * a detailed report in LaTeX using **[Overleaf](https://overleaf.com/)**
 
     * a **[Class Presentation](https://docs.google.com/presentation/d/1y4OMQq9ChapHJF-cUaYQa6J7IUvhlgL5Z-AJ8MRbJis/edit?usp=sharing)**
 
     * a **[Poster](../assets/PosterTemplate.pptx)** to be presented at **[Furman Engaged](https://www.furman.edu/furman-engaged)**
 
+    * a public code repository on **[GitHub](https://github.com/)**
+
 3. **[Purposeful Pathways](../pathways/)** events that are designed to help students develop their professional skills. These events include workshops on resume writing, interviewing, and networking.
-
-
 
 ## Course Goals
 

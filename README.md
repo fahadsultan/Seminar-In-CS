@@ -9,24 +9,24 @@ seo:
   name: Just the Class
 ---
 
-<h1>CSC 475: Seminar In Computer Science (under construction)</h1>
+<h1>CSC 475: Seminar In Computer Science<br/>Fall 2023</h1>
 
-<!-- <br/> -->
+Hi! Welcome to the course website of CSC-475 Seminar in CS 👋🏾
 
-<!-- ![](https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZTGD2L2EFFOJANV7G752OAPVA.jpg) -->
+I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this course with you. 
 
-<!-- ![](https://news.artnet.com/app/news-upload/2019/11/6-1.jpg) -->
-<!-- <img  style="border: 0px" src="assets/images/harran-ii.jpeg" />
-<p style="text-align: right;color:gray;font-size: 0.75rem;"><a href="https://www.guggenheim.org/artwork/4003">Frank Stella <i>Harran II</i>, 1967</a></p> -->
- ![Peace Through Chemistry](assets/images/peace_through_chemistry2.png)
-<p style="text-align: right;color:gray;font-size: 0.75rem;"><a href="https://www.moma.org/collection/works/66689">Roy Lichtenstein, <i>Peace Through Chemistry I</i>, 1970</a></p>
-<!-- <img  src="assets/images/harran-ii.jpeg" /> -->
-<!-- ![https://whitney.org/exhibitions/julie-mehretu](https://whitneymedia.org/assets/image/824555/large_JM_008_RPL_Retropistics_2001_copy.jpg)
-<p style="text-align: right;color:gray;font-size: 0.75rem;"><a href="https://en.wikipedia.org/wiki/Julie_Mehretu">Julie Mehretu <i>Retopistics: A Renegade Excavation</i>, 2001</a></p> -->
-<!-- ![Frank Stella, Harran II](assets/images/harran-ii.jpeg) -->
-<!-- <p style="text-align: right;color:gray;font-size: 0.75rem;"><a href="https://www.guggenheim.org/artwork/4003">Frank Stella <i>Harran II</i>, 1967</a></p> -->
+👈🏾 From the sidebar on the left, you should be able to navigate to any topic relevant to the course. If that does not help, there should also be a search bar in the top ☝🏾.
 
-## Announcements
+👇🏾 Below, you can find important links and important announcements.
+
+<!-- ## Announcements -->
+
+{: .tip }
+**Drop by my office**: Riley Hall 200-D. I am in my office between 9 AM - 5 PM most weekdays and have an **open-door policy**! Alternatively, send me an email or **[schedule an appointment](https://calendly.com/ssultan-dpq/)**
 
 {: .deadline }
-Assignment 1 due _September 1st_
+Please fill out the **pre-course survey** before class on **August 24th**
+
+{: .deadline }
+Please read the chapters **[Orientation](assets/papers/Orientation.pdf)** and **[You and Your Research](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)** of _**The Art of Science and Engineering**_ for discussion on class of **August 24th**
+

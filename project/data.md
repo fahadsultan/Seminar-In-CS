@@ -30,20 +30,17 @@ Following data sets and ideas are only there to give you a starting point. You a
 
 * **Sports**: i) [College Basketball](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset) ii) [FIFA Soccer Rankings](https://www.kaggle.com/datasets/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now) iii) [Cricket](https://www.kaggle.com/datasets/jaykay12/odi-cricket-matches-19712017)
 
-## Example Project Ideas
-
-
-
+<!--- ## Example Project Ideas
 <!-- ### Movie / Song / TV Recommendation System   -->
 
-* Implement a **Recommendation System** using the data sets above. **Unsupervised**{: .label .label-purple }  
+<!-- * Implement a **Recommendation System** using the data sets above. **Unsupervised**{: .label .label-purple }   -->
 <!-- **Tabular**{: .label .label-purple } **Text**{: .label .label-purple }  -->
 
-* Predict the **Genre / Artist** of the media using the data sets above. **Classification**{: .label .label-purple }  
+<!-- * Predict the **Genre / Artist** of the media using the data sets above. **Classification**{: .label .label-purple }   -->
 <!-- **Tabular**{: .label .label-purple } **Text**{: .label .label-purple }  -->
 
-* Predict the **Rating / Popularity / Revenue** of the media using the data sets above. **Regression**{: .label .label-purple } 
+<!-- * Predict the **Rating / Popularity / Revenue** of the media using the data sets above. **Regression**{: .label .label-purple }  -->
  <!-- **Tabular**{: .label .label-purple } **Text**{: .label .label-purple }  -->
 
-* Use **historical trend to predict future value of an indicator**. **Time Series**{: .label .label-purple }
+<!-- * Use **historical trend to predict future value of an indicator**. **Time Series**{: .label .label-purple }  -->
 

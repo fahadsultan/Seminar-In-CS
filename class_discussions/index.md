@@ -19,13 +19,14 @@ has_children: true
 <!-- ## Class Discussions
 <br /> -->
 
-* **_Students-led discussions on [assigned reading](../class_discussions/readings/) of the week is [40% of the course grade](../policies/grading/)._**
+* **_Showing up to class and actively participating is [20% of the course grade](../policies/grading/)._**
 
-* **Attendance** in the course is **mandatory** and is **[10% of the course grade](../policies/grading/)**. Please discuss any necessary absences with me. 
+    * **Attendance** in the class is **mandatory** and is **[5% of the course grade](../policies/grading/)**. Please discuss any necessary absences with me. 
 
-* **Active participation** in class discussions is a critical component of the course and comprised of **asking questions** related to assigned reading, **answering questions** of your peers and **sharing your thoughts**. Thoughtful contributions to the class discussions makes up **[30% of the course grade](../policies/grading/)**.
+    * **Active participation** in class discussions is a critical component of the course and comprised of **asking questions** related to assigned reading, **answering questions** of your peers and **sharing your thoughts**. Thoughtful contributions to the class discussions makes up **[15% of the course grade](../policies/grading/)**.
 
-* You are expected to write **a one page (atleast 400 words) reflection** on each article. These are to be submitted on the **[course Moodle page]()**. In your reflections, you should focus on: 
+
+* You are expected to write **a one page (atleast 400 words) reflection** on each on [assigned reading](../class_discussions/readings/). These make up  **[15% of the course grade](../policies/grading/)**. These are to be submitted on the **[course Moodle page](https://courses.furman.edu/course/view.php?id=16183)**. In your reflections, you should focus on: 
 
     * Highlight part of the reading that most stood out to you or that you you might disagree with and briefly explain why.
     * Connect the article with your lived experience, knowledge or future plans. 

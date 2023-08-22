@@ -21,9 +21,9 @@ parent: Policies
 
 ### Class Participation: 		40 %
 
-| Active participation  | 15 |
-| Reflections  | 15 |
-| Attendance  | 10 |
+| Active participation (progress + readings) | 15 |
+| Reflections (readings) | 15 |
+| Attendance  | 10 (Class: 5 + One-on-One: 5)|
 
 
 ### Project: 					50 %
