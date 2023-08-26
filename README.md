@@ -21,12 +21,10 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 
 <!-- ## Announcements -->
 
+{: .deadline }
+**[Assignment 1](https://docs.google.com/document/d/1feE6sO5X7wMhPAwt8HoIvxz0Gk6tUIKf_VOG4xqtdGU/edit?usp=sharing)** is due on **September 1st** at 11:59 PM 
+
 {: .tip }
 **Drop by my office**: Riley Hall 200-D. I am in my office between 9 AM - 5 PM most weekdays and have an **open-door policy**! Alternatively, send me an email or **[schedule an appointment](https://calendly.com/ssultan-dpq/)**
 
-{: .deadline }
-Please fill out the **pre-course survey** before class on **August 24th**
-
-{: .deadline }
-Please read the chapters **[Orientation](assets/papers/Orientation.pdf)** and **[You and Your Research](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)** of _**The Art of Science and Engineering**_ for discussion on class of **August 24th**
 
