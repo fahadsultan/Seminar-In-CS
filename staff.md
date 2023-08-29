@@ -25,3 +25,8 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% endif %} -->
 
 ### Office Hours
+
+* Monday afternoons (1:30 PM - 3:30 PM)
+* Friday mornings (9:30 AM - 11:30 AM)
+
+See [weekly schedule](schedule.md) for details.

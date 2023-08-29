@@ -25,7 +25,7 @@ The course has three major components:
 
     * a **[Class Presentation](https://docs.google.com/presentation/d/1y4OMQq9ChapHJF-cUaYQa6J7IUvhlgL5Z-AJ8MRbJis/edit?usp=sharing)**
 
-    * a **[Poster](../assets/PosterTemplate.pptx)** to be presented at **[Furman Engaged](https://www.furman.edu/furman-engaged)**
+    * a **[Poster](https://docs.google.com/presentation/d/12WyL8m-YKPqiJ7r9GkSo76Du0YdzAppPeT3xjPy1yj0/edit?usp=sharing)** to be presented at **[Furman Engaged](https://www.furman.edu/furman-engaged)**
 
     * a public code repository on **[GitHub](https://github.com/)**
 

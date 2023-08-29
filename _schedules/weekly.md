@@ -33,7 +33,7 @@ schedule:
         end: 10:00 AM
       - name: Class Meeting
         start: 2:30 PM
-        end: 3:30 PM
+        end: 3:50 PM
         location: 202 Riley Hall
       # - name: Section
       #   start: 11:30 AM
@@ -55,7 +55,7 @@ schedule:
         end: 10:00 AM
       - name: Class Meeting
         start: 2:30 PM
-        end: 3:30 PM
+        end: 3:50 PM
         location: 202 Riley Hall
       # - name: Section
       #   start: 11:30 AM

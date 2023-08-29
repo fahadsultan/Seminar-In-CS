@@ -31,6 +31,14 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
 <hr/>
 
+### **[The Texbook](https://visualmatheditor.equatheque.net/doc/texbook.pdf)**<br/>
+Knuth, Donald Ervin, and Duane Bibby. \
+Vol. 1993. Reading, MA: Addison-Wesley, 1986.
+
+**[Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)**
+<br/>
+
+<hr/>
 <!-- **2.**  -->
 ### **[How to Read a Paper](https://www.albany.edu/spatial/training/3-How%20to%20read%20a%20paper.pdf)**<br/>
 Srinivasan Keshav,\
@@ -52,14 +60,6 @@ IEEE software 29.3 (2012): 100-101.
 
 <hr/>
 
-### **[The Texbook](https://visualmatheditor.equatheque.net/doc/texbook.pdf)**<br/>
-Knuth, Donald Ervin, and Duane Bibby. \
-Vol. 1993. Reading, MA: Addison-Wesley, 1986.
-
-**[Overleaf Demo]()**<br/>
-
-
-<hr/>
 
 <!-- **4.**  -->
 ### **[The Unreasonable Effectiveness of Mathematics](https://personal.lse.ac.uk/ROBERT49/teaching/ph201/Week15_xtra_Wigner.pdf)** <br/>

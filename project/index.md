@@ -18,7 +18,7 @@ has_children: true
 --- -->
 In this course, you will plan, execute, and present the results of a term-long project of your choosing. If you are an Information Technology major, your project must relate to your cognate discipline. 
 
-In the project, _**you will be asking a question and defending an argument in a Final Paper, in [Class Presentation](https://docs.google.com/presentation/d/1y4OMQq9ChapHJF-cUaYQa6J7IUvhlgL5Z-AJ8MRbJis/edit?usp=sharing), and [Poster](../assets/PosterTemplate.pptx) at Furman Engaged.**_
+In the project, _**you will be asking a question and defending an argument in a Final Paper, in [Class Presentation](https://docs.google.com/presentation/d/1y4OMQq9ChapHJF-cUaYQa6J7IUvhlgL5Z-AJ8MRbJis/edit?usp=sharing), and [Poster](https://docs.google.com/presentation/d/12WyL8m-YKPqiJ7r9GkSo76Du0YdzAppPeT3xjPy1yj0/edit?usp=sharing) at Furman Engaged.**_
 
 In addition to our seminar discussions, many class sessions will be devoted to instruction on planning, executing, and presenting your project. 
 
@@ -58,6 +58,6 @@ Note that an application need not be robust, but must be sufficiently functional
 
 **Peer Grading**: A substantial part of the grading of the projects will be done by peers: each student will be charged with grading three other projects on the same topic. _Peer review is how research papers are selected for publication in academia_, and I hope this will be revealing.  I am hoping that this review will provide insights to improve your own projects as well.
 
-To preserve **anonymity in submissions**, it is important that the papers you submit online for grading **not contain your names** or ID numbers. Indeed, the peer grading form/rubric will include a question if the grader can figure out whose paper they have, and if so we will take off points.
+~~To preserve **anonymity in submissions**, it is important that the papers you submit online for grading **not contain your names** or ID numbers. Indeed, the peer grading form/rubric will include a question if the grader can figure out whose paper they have, and if so we will take off points.~~
 
 **Your project code should be on [Github](https://github.com) and your manuscript should be on [Overleaf](https://overleaf.com).** See links below for more details. 

@@ -6,4 +6,4 @@ website: https://fahadsultan.com
 photo: fahad.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendly.com/ssultan-dpq/){: .btn .btn-outline }

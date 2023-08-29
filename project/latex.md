@@ -12,7 +12,11 @@ parent: 2. Capstone Project
 
 <br/> -->
 
+**[LaTeX tutorial from class](https://fahadsultan.com/potpourri/latex.html)**
+
 You are expected to use LaTeX for your final report. You can use any Latex editor you like. I recommend [Overleaf](https://www.overleaf.com/). It is free and easy to use.
+
+
 
 ## LaTeX Template
 
