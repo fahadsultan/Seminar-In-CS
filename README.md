@@ -24,6 +24,12 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 {: .deadline }
 **[Project Pre-proposal](https://docs.google.com/document/d/1feE6sO5X7wMhPAwt8HoIvxz0Gk6tUIKf_VOG4xqtdGU/edit?usp=sharing)** is due on **September 1st** at 11:59 PM 
 
+{: .deadline }
+**Readings 2: i) [Unreasonable Effectivess of Mathematics](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)** and **ii) [Mathematics](assets/Mathematics.pdf)** chapter from _The Art of Doing Science and Engineering_. Reflection document is due on **September 5th** at 1:59 PM 
+
+{: .tip }
+**[LaTeX tutorial from class](http://fahadsultan.com/potpourri/latex.html)**
+
 {: .tip }
 **Drop by my office**: Riley Hall 200-D. I am in my office between 9 AM - 5 PM most weekdays and have an **open-door policy**! Alternatively, send me an email or **[schedule an appointment](https://calendly.com/ssultan-dpq/)**
 

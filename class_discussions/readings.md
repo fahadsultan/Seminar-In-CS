@@ -35,8 +35,18 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 Knuth, Donald Ervin, and Duane Bibby. \
 Vol. 1993. Reading, MA: Addison-Wesley, 1986.
 
-**[Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)**
+**[Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)**~~
 <br/>
+
+<!-- **4.**  -->
+### **[The Unreasonable Effectiveness of Mathematics](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)** <br/>
+Wigner, Eugene P. \
+_Mathematics and Science_. 1990. 291-306.
+
+**[Mathematics](../../assets/Mathematics.pdf)**<br/>
+Richard W. Hamming,\
+_The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
+
 
 <hr/>
 <!-- **2.**  -->
@@ -59,16 +69,6 @@ Spinellis, Diomidis. \
 IEEE software 29.3 (2012): 100-101.
 
 <hr/>
-
-
-<!-- **4.**  -->
-### **[The Unreasonable Effectiveness of Mathematics](https://personal.lse.ac.uk/ROBERT49/teaching/ph201/Week15_xtra_Wigner.pdf)** <br/>
-Wigner, Eugene P. \
-_Mathematics and Science_. 1990. 291-306.
-
-**[Mathematics](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)**<br/>
-Richard W. Hamming,\
-_The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
 
 
