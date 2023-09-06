@@ -22,10 +22,10 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 <!-- ## Announcements -->
 
 {: .deadline }
-**[Project Pre-proposal](https://docs.google.com/document/d/1feE6sO5X7wMhPAwt8HoIvxz0Gk6tUIKf_VOG4xqtdGU/edit?usp=sharing)** is due on **September 1st** at 11:59 PM 
+~~Reading~~ Viewing 3: **[Unreasonable Effectivess of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs)**. [Accompanying article](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf)  Reflection document is due on **September 7th** at 2:30 PM 
 
 {: .deadline }
-**Readings 2: i) [Unreasonable Effectivess of Mathematics](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)** and **ii) [Mathematics](assets/Mathematics.pdf)** chapter from _The Art of Doing Science and Engineering_. Reflection document is due on **September 5th** at 1:59 PM 
+**[Project Proposal](https://docs.google.com/document/d/1feE6sO5X7wMhPAwt8HoIvxz0Gk6tUIKf_VOG4xqtdGU/edit?usp=sharing)** is due on **September 15th** at 11:59 PM. Please schedule a meeting with me using **[this link](https://calendly.com/ssultan-dpq/)** ASAP to discuss next steps. 
 
 {: .tip }
 **[LaTeX tutorial from class](http://fahadsultan.com/potpourri/latex.html)**

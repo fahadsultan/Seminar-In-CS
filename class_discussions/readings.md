@@ -35,8 +35,10 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 Knuth, Donald Ervin, and Duane Bibby. \
 Vol. 1993. Reading, MA: Addison-Wesley, 1986.
 
-**[Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)**~~
+**[Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)**
+
 <br/>
+---
 
 <!-- **4.**  -->
 ### **[The Unreasonable Effectiveness of Mathematics](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)** <br/>
@@ -49,6 +51,15 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
 
 <hr/>
+
+
+### **[The Unreasonable Effectiveness of Data (video)](https://www.youtube.com/watch?v=yvDCzhbjYWs)**<br/>
+[The Unreasonable Effectiveness of Data (article)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf)<br/>
+Halevy, Alon, Peter Norvig, and Fernando Pereira.\
+IEEE intelligent systems 24.2 (2009): 8-12.
+
+<hr/>
+
 <!-- **2.**  -->
 ### **[How to Read a Paper](https://www.albany.edu/spatial/training/3-How%20to%20read%20a%20paper.pdf)**<br/>
 Srinivasan Keshav,\
@@ -76,11 +87,6 @@ IEEE software 29.3 (2012): 100-101.
 <hr/>
 
 
-### **[The Unreasonable Effectiveness of Data](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf)**<br/>
-Halevy, Alon, Peter Norvig, and Fernando Pereira.\
-IEEE intelligent systems 24.2 (2009): 8-12.
-
-<hr/>
 
 ### **[A Few Useful Things to Know about Machine Learning](https://deeplearning.lipingyang.org/)**<br/>
 Domingos, Pedro.\
