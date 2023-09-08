@@ -20,68 +20,113 @@ Each reflection must include:
 * What you learned about yourself
 * How you will apply what you learned
 
-At least two events from each of the categories Career Exploration, Professional Preparation, and Networking & Employer Engagement must be attended as a **graduation requirement for Computer Science or Information Technology**.
+**At least two events** from each of the categories:
+* Career Exploration
+* Professional Preparation
+* Networking & Employer Engagement 
 
-## PURPOSEFUL PATHWAYS IN COMPUTER SCIENCE<br/>Schedule of Experiences for Fall 2023
+must be attended as a **graduation requirement for Computer Science or Information Technology**.
 
-### SEPTEMBER
+## Schedule of Experiences for Fall 2023
 
-* Career Skills for CS, Math, and Data Analytics: Creating a Professional Profile – Professional Preparation Wednesday, September 13, 5:30-6:30pm
+<br/>
+
+<center>SEPTEMBER</center>
+
+1. [Professional Preparation] \
+_Career Skills for CS, Math, and Data Analytics: Creating a Professional Profile_  \
+**Monday, September 11, 5:30-6:30 PM** \
 Jennifer McHan Good Collab (Riley 106)
 
-* Cothran Center Fall Retreat: “Do Nothing” + Senior Stories – Professional Preparation Friday, September 15 – Saturday, September 16
+2. [Professional Preparation] \
+_Cothran Center Fall Retreat: “Do Nothing” + Senior Stories_ \
+**Friday, September 15 – Saturday, September 16** \
 Pleasant Ridge Retreat Center (Pre-registration required)
 
-* Career Launch Party and Headshots – Career Exploration Monday, September 18, 3-5pm
+3. [Career Exploration] \
+_Career Launch Party and Headshots – Career Exploration_ \
+**Monday, September 18, 3-5 PM** \
 Hill Atrium, Trone Student Center
 
-* What’s in Your Closet? (A Comedic Career Fashion Show) – Professional Preparation Wednesday, September 20, 7-8pm
+4. [Professional Preparation] \
+_What’s in Your Closet? (A Comedic Career Fashion Show)_  \
+**Wednesday, September 20, 7-8 PM** \
 Location TBA
 
-* Career Fair Preparation – Professional Preparation Friday, September 22, 12:30-1:30pm
+5. [Professional Preparation] \
+_Career Fair Preparation_ \
+**Friday, September 22, 12:30-1:30 PM** \
 Jennifer McHan Good Collab (Riley 106)
 
-* Career and Internship Fair – Career Exploration Wednesday, September 27, 12:30-3:30pm Watkins Room, Trone Student Center
+6. [Career Exploration] \
+_Career and Internship Fair_ \
+**Wednesday, September 27, 12:30-3:30pm** \
+Watkins Room, Trone Student Center
 
-### OCTOBER
+<center>OCTOBER</center>
 
-* College Life Coaching Session for Seniors – Professional Preparation Friday, October 6, 12:30-1:30
+7. [Professional Preparation] \
+_College Life Coaching Session for Seniors_ \
+**Friday, October 6, 12:30-1:30 PM** \
 Jennifer McHan Good Collab (Riley 106)
 
-* Data Analytics in the Upstate – Networking & Employer Engagement Tuesday, October 10, 5:15-7pm
+8. [Networking & Employer Engagement] \
+_Data Analytics in the Upstate_ \ 
+**Tuesday, October 10, 5:15-7 PM** \
 Furman 101, Downtown Greenville
 
-* Gap Year Opportunities Panel Luncheon – Career Exploration Wednesday, October 11, 12:30-1:20pm
+9. [Career Exploration] \
+_Gap Year Opportunities Panel Luncheon_ \
+**Wednesday, October 11, 12:30-1:20 PM**
 Location TBA
 
-* Computer Science Research & Internship Showcase – Networking & Employer Engagement Friday, October 13, 12:30-1:30pm
+10. [Networking & Employer Engagement] \
+_Computer Science Research & Internship Showcase_ \
+**Friday, October 13, 12:30-1:30 PM**
 Jennifer McHan Good Collab (Riley 106)
 
-* Leveraging Your Creativity in Your Career – Professional Preparation Friday, October 20, 2:30-4:00pm
+11. [Professional Preparation] \
+_Leveraging Your Creativity in Your Career_ \
+**Friday, October 20, 2:30-4:00 PM**
 Location TBA
 
-* Computer Science Business Etiquette Seminar/Dinner – Professional Preparation Thursday, October 26, 6-8pm
+12. [Professional Preparation] \
+_Computer Science Business Etiquette Seminar/Dinner_ \
+**Thursday, October 26, 6-8 PM**
 Restaurant TBA
 
-* Computer Science Alumni Homecoming Panel – Career Exploration Friday, October 27, 12:30-1:30pm
+13. [Career Exploration] \
+_Computer Science Alumni Homecoming Panel_ \
+**Friday, October 27, 12:30-1:30 PM** \
 Jennifer McHan Good Collab (Riley 106)
 
-### NOVEMBER
+<center>NOVEMBER</center>
 
-* College Life Coaching Session for Juniors – Professional Preparation Friday, November 3, 12:30-1:30
+
+1. [Professional Preparation] \
+_College Life Coaching Session for Juniors_ \
+**Friday, November 3, 12:30-1:30 PM** \
 Jennifer McHan Good Collab (Riley 106)
 
-* CCSC:Southeastern Conference – Networking & Employer Engagement
-(Options: Conference attendance, Research Contest participation, Programming Contest participation) Friday, November 3 – Saturday, November 4
+2. [Networking & Employer Engagement] \
+_CCSC:Southeastern Conference_  \ 
+(Options: Conference attendance, Research Contest participation, Programming Contest participation) \
+**Friday, November 3 – Saturday, November 4** \
 Coastal Carolina University, Conway, SC
 
-* Cothran Center Enneagram Workshop – Professional Preparation Monday, November 6, 5:30-6:30pm
+3. [Professional Preparation] \
+_Cothran Center Enneagram Workshop_ \
+**Monday, November 6, 5:30-6:30 PM** \
 Johns Hall 101
 
-* Build Your LinkedIn Profile in 60 Minutes (+ Free Headshots) – Professional Preparation Tuesday, November 14, 5-6pm
+4. [Professional Preparation] \
+_Build Your LinkedIn Profile in 60 Minutes (+ Free Headshots)_ \
+**Tuesday, November 14, 5-6 PM** \
 Location TBA
 
-* Computer Science Powerpoint Night – Professional Preparation Tuesday, November 28, 6-7:30pm
+5. [Professional Preparation] \
+_Computer Science Powerpoint Night_ \  
+**Tuesday, November 28, 6-7:30 PM** \
 Jennifer McHan Good Collab (Riley 106)
 
 ### INDIVIDUALLY SCHEDULED EXPERIENCES

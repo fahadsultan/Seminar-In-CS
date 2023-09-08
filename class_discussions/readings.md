@@ -31,14 +31,16 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
 <hr/>
 
+{: .tip }
+**[LaTeX tutorial from class](http://fahadsultan.com/potpourri/latex.html)** (Link)
+
 ### **[The Texbook](https://visualmatheditor.equatheque.net/doc/texbook.pdf)**<br/>
 Knuth, Donald Ervin, and Duane Bibby. \
 Vol. 1993. Reading, MA: Addison-Wesley, 1986.
 
 **[Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)**
 
-<br/>
----
+<hr/>
 
 <!-- **4.**  -->
 ### **[The Unreasonable Effectiveness of Mathematics](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)** <br/>
@@ -57,6 +59,13 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 [The Unreasonable Effectiveness of Data (article)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf)<br/>
 Halevy, Alon, Peter Norvig, and Fernando Pereira.\
 IEEE intelligent systems 24.2 (2009): 8-12.
+
+<hr/>
+
+
+### **[Program or be Programmed](https://addc401fall2016.files.wordpress.com/2016/08/rushkoff-program-or-be-programmed.pdf)**<br/>
+Douglas Rushkoff,\
+Or Books, 2010.
 
 <hr/>
 
@@ -129,9 +138,6 @@ Decentralized business review (2008): 21260.
 
 <hr/>
 
-### **[Program or be Programmed](https://addc401fall2016.files.wordpress.com/2016/08/rushkoff-program-or-be-programmed.pdf)**<br/>
-Douglas Rushkoff,\
-Or Books, 2010.
 
 * Dakhel, Arghavan Moradi, et al.\
 **[GitHub Copilot AI pair programmer: Asset or Liability?](https://arxiv.org/pdf/2206.15331)**<br/>

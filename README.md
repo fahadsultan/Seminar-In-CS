@@ -22,10 +22,11 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 <!-- ## Announcements -->
 
 {: .deadline }
-~~Reading~~ Viewing 3: **[Unreasonable Effectivess of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs)**. [Accompanying article](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf)  Reflection document is due on **September 7th** at 2:30 PM 
+**[Project Proposal](https://docs.google.com/document/d/1feE6sO5X7wMhPAwt8HoIvxz0Gk6tUIKf_VOG4xqtdGU/edit?usp=sharing)** is due on **September 15th** at 11:59 PM. Please schedule a meeting with me using **[this link](https://calendly.com/ssultan-dpq/)** ASAP to discuss next steps. 
 
 {: .deadline }
-**[Project Proposal](https://docs.google.com/document/d/1feE6sO5X7wMhPAwt8HoIvxz0Gk6tUIKf_VOG4xqtdGU/edit?usp=sharing)** is due on **September 15th** at 11:59 PM. Please schedule a meeting with me using **[this link](https://calendly.com/ssultan-dpq/)** ASAP to discuss next steps. 
+The first **[Purpose Pathways](pathways.md)** event of the semester: _**Career Skills for CS, Math, and Data Analytics: Creating a Professional Profile**_ is on Monday, **September 11th, 5:30-6:30 PM** Jennifer McHan Good Collab (Riley 106)
+
 
 {: .tip }
 **[LaTeX tutorial from class](http://fahadsultan.com/potpourri/latex.html)**
