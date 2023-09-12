@@ -63,9 +63,22 @@ IEEE intelligent systems 24.2 (2009): 8-12.
 <hr/>
 
 
-### **[Program or be Programmed](https://addc401fall2016.files.wordpress.com/2016/08/rushkoff-program-or-be-programmed.pdf)**<br/>
+### **Program or be Programmed**
+1. **[Introduction](../assets/papers/ProgOrbeProged-Intro.pdf)**<br/>
+2. **[Chapter 10](../assets/papers/ProgOrbeProged-Ch10.pdf)**<br/>
+
 Douglas Rushkoff,\
 Or Books, 2010.
+
+<hr/>
+
+### **[You Get What You Measure](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)**<br/>
+Richard R. Hamming,\
+_The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
+
+**[Weapons of Math Destuction - Going to College](../assets/papers/WMDs-GoingToCollege.pdf)** <br/>
+Cathy O Neil,\
+_Weapons of Math Destruction_, Crown, 2016.
 
 <hr/>
 
@@ -97,9 +110,9 @@ IEEE software 29.3 (2012): 100-101.
 
 
 
-### **[A Few Useful Things to Know about Machine Learning](https://deeplearning.lipingyang.org/)**<br/>
+### **[A Few Useful Things to Know about Machine Learning](../../assets/papers/AFewUsefulThingsAboutML.pdf)**<br/>
 Domingos, Pedro.\
-wp-content/uploads/2017/01/Domingos_2012_-A_few_useful_things2know_about_ML.pdf)**,<br/>  _Communications of the ACM_ 55.10 (2012): 78-87
+_Communications of the ACM_ 55.10 (2012): 78-87
 
 
 <hr/>
@@ -109,7 +122,7 @@ LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton.\
 _Nature_ 521.7553 (2015): 436-444.
 
 * Marcus, Gary.\
-**[Deep learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf?u)**,<br/>  arXiv preprint arXiv:1801.00631 (2018).
+### **[Deep learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf?u)**,<br/>  arXiv preprint arXiv:1801.00631 (2018).
 
 <hr/>
 
@@ -163,10 +176,6 @@ Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. \
 Science 350.6264 (2015): 1073-1076.
 
 <hr/>
-
-* Richard R. Hamming,\
-**[You Get What You Measure](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)**<br/>
-_The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
 
 * Richard R. Hamming,\
