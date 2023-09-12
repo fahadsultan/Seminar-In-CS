@@ -121,14 +121,16 @@ _Communications of the ACM_ 55.10 (2012): 78-87
 LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton.\
 _Nature_ 521.7553 (2015): 436-444.
 
-* Marcus, Gary.\
-### **[Deep learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf?u)**,<br/>  arXiv preprint arXiv:1801.00631 (2018).
+
+### **[Deep learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf)**,<br/>
+Marcus, Gary.\
+arXiv preprint arXiv:1801.00631 (2018).
 
 <hr/>
 
-
+### **[Anatomy of an AI System](https://cache.fluxo.info/data/4c/ab/4cab5c66a9e44e27f58dd79918f489d7ed08da09/screenshot.pdf)**
 * Crawford, K., & Joler, V. (2018).\
-**[Anatomy of an AI System](https://cache.fluxo.info/data/4c/ab/4cab5c66a9e44e27f58dd79918f489d7ed08da09/screenshot.pdf)**,<br/>  Retrieved September, 18, 2018.
+Retrieved September, 18, 2018.
 
 * Bender, Emily M., et al.\
 **[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)** <br/> _Proceedings of the 2021 ACM conference on fairness, accountability, and transparency_. 2021. 
@@ -145,11 +147,11 @@ _Communications of the ACM_ 64.12 (2021): 86-92.
 
 <hr/>
 
-### **[Bitcoin: A peer-to-peer electronic cash system](https://assets.pubpub.org/d8wct41f/31611263538139.pdf)**<br/>
+<!-- ### **[Bitcoin: A peer-to-peer electronic cash system](https://assets.pubpub.org/d8wct41f/31611263538139.pdf)**<br/>
 Nakamoto, Satoshi.\
 Decentralized business review (2008): 21260.
 
-<hr/>
+<hr/> -->
 
 
 * Dakhel, Arghavan Moradi, et al.\

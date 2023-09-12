@@ -25,7 +25,7 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 **[Project Proposal](project/CSC_475_Project_Proposal.pdf)** is due on **September 15th** at 11:59 PM. Please schedule a meeting with me using **[this link](https://calendly.com/ssultan-dpq/)** ASAP to discuss next steps. <br/><br/> **[Link to overleaf](https://www.overleaf.com/read/qqktkgdpbkkx)**
 
 {: .deadline }
-The first **[Purpose Pathways](pathways.md)** event of the semester: _**Career Skills for CS, Math, and Data Analytics: Creating a Professional Profile**_ is on Monday, **September 11th, 5:30-6:30 PM** Jennifer McHan Good Collab (Riley 106)
+Next Reading **Program or be Programmed**: _**[Introduction](assets/papers/ProgOrbeProged-Intro.pdf)**_ and _**[Chapter 10](assets/papers/ProgOrbeProged-Intro.pdf)**_ for discussion on **Sept 14th**. Reflection due **Sept 13th, 11:59 PM**.
 
 
 {: .tip }
