@@ -21,15 +21,15 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 
 <!-- ## Announcements -->
 
-{: .deadline }
-**[Project Proposal](project/CSC_475_Project_Proposal.pdf)** is due on **September 15th** at 11:59 PM. Please schedule a meeting with me using **[this link](https://calendly.com/ssultan-dpq/)** ASAP to discuss next steps. <br/><br/> **[Link to overleaf](https://www.overleaf.com/read/qqktkgdpbkkx)**
-
-{: .deadline }
-Next Reading **Program or be Programmed**: _**[Introduction](assets/papers/ProgOrbeProged-Intro.pdf)**_ and _**[Chapter 10](assets/papers/ProgOrbeProged-Intro.pdf)**_ for discussion on **Sept 14th**. Reflection due **Sept 13th, 11:59 PM**.
-
+{: .tip }
+**[All Tutorials from class](http://fahadsultan.com/potpourri/)**
 
 {: .tip }
-**[LaTeX tutorial from class](http://fahadsultan.com/potpourri/latex.html)**
+**[Library Course Guide](https://libguides.furman.edu/c.php?g=1343703&p=9909151)**  for literature review from **[Allison Diaz](https://www.furman.edu/people/allison-diaz/)** (Thank you Allison! 🙏🏾)
+
+{: .tip }
+**[Data & Statistics resources](https://libguides.furman.edu/resources/statistics/home)** from James B. Duke Library
+
 
 {: .tip }
 **Drop by my office**: Riley Hall 200-D. I am in my office between 9 AM - 5 PM most weekdays and have an **open-door policy**! Alternatively, send me an email or **[schedule an appointment](https://calendly.com/ssultan-dpq/)**

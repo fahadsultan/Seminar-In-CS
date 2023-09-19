@@ -11,8 +11,11 @@ parent: 2. Capstone Project
 
 Following data sets and ideas are only there to give you a starting point. You are free to propose a data set or project idea not listed here. 
 
-{: .green }
+{: .tip }
 **[Google's Dataset Search](https://datasetsearch.research.google.com)**, **[Kaggle](https://www.kaggle.com/datasets)** and the **["Awesome Public Datsets" github repository](https://github.com/awesomedata/awesome-public-datasets)** are good places to look for data sets 
+
+{: .tip }
+**[Data & Statistics resources](https://libguides.furman.edu/resources/statistics/home)** from James B. Duke Library
 
 ## Example Data sets
 
