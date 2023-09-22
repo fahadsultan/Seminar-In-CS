@@ -21,13 +21,13 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 
 <!-- ## Announcements -->
 
-{: .tip }
+{: .notice }
 **[All Tutorials from class](http://fahadsultan.com/potpourri/)**
 
-{: .tip }
-**[Library Course Guide](https://libguides.furman.edu/c.php?g=1343703&p=9909151)**  for literature review from **[Allison Diaz](https://www.furman.edu/people/allison-diaz/)** (Thank you Allison! 🙏🏾)
+{: .notice }
+**[Library Course Guide](https://libguides.furman.edu/c.php?g=1343703&p=9909151)**  for literature review from **[Allison Diaz](https://www.furman.edu/people/allison-diaz/)** 
 
-{: .tip }
+{: .notice }
 **[Data & Statistics resources](https://libguides.furman.edu/resources/statistics/home)** from James B. Duke Library
 
 
