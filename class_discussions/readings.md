@@ -8,8 +8,11 @@ nav_order: 3
 parent: 1. Class Discussions
 ---
 
-# Readings
+# Readings / Viewings
 {:.no_toc} 
+
+{: .notice }
+The views expressed in the following articles/films do not necessarily reflect the views of the instructor, the CS department and/or Furman University. Read/watch with a critical eye. 
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,6 +22,9 @@ parent: 1. Class Discussions
 
 <!-- --->
 <br/>
+
+
+## Past
 
 <!-- **1.**  -->
 ### **[Orientation](../assets/papers/Orientation.pdf)**<br/>
@@ -55,12 +61,14 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 <hr/>
 
 
-### **[The Unreasonable Effectiveness of Data (video)](https://www.youtube.com/watch?v=yvDCzhbjYWs)**<br/>
+### **[The Unreasonable Effectiveness of Data 🎥](https://www.youtube.com/watch?v=yvDCzhbjYWs)**<br/>
 [The Unreasonable Effectiveness of Data (article)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf)<br/>
 Halevy, Alon, Peter Norvig, and Fernando Pereira.\
 IEEE intelligent systems 24.2 (2009): 8-12.
 
 <hr/>
+
+
 
 
 ### **Program or be Programmed**
@@ -71,6 +79,37 @@ Douglas Rushkoff,\
 Or Books, 2010.
 
 <hr/>
+
+{: .tip }
+**[Git tutorial from class](http://fahadsultan.com/potpourri/git.html)** (Link)
+
+<!-- **3.**  -->
+### **[Git User Manual](https://derkling.matbug.net/_media/teaching:2010:gitusermanual.pdf)**
+Torvalds, Linus, J. Hamano, and J. Pearce. \
+2010.
+
+**[Git](https://www2.dmst.aueb.gr/dds/pubs/jrnl/2005-IEEESW-TotT/html/v29n3.pdf)** <br/>
+Spinellis, Diomidis. \
+IEEE software 29.3 (2012): 100-101.
+
+<hr/>
+
+### **[Paywall: The Business of Scholarship 🎥](https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered)**
+Jason Schmitt \
+2018.
+
+
+
+### **[The Internet's Own Boy: The Story of Aaron Swartz 🎥](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz)**
+Brian Knappenberger \
+2014.
+
+{: .warning }
+_The Internet's Own Boy_  includes content involving depression, self-harm, and suicide, which may be deeply distressing and triggering for those grappling with similar issues. Please remember that support is available for those in need. Speak with someone today at **988** hotline or contact **[Furman University Counseling Center](https://www.furman.edu/counseling-center/)** – Call the Counseling Center at **864-294-3031, press #3** (confidential, available 24/7/365 from anywhere).
+
+<hr/>
+
+## Future
 
 ### **[You Get What You Measure](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)**<br/>
 Richard R. Hamming,\
@@ -89,17 +128,6 @@ _ACM SIGCOMM Computer Communication Review_ 37.3 (2007): 83-84.
 
 Mitzenmacher, M.,\
 **[How to Read a Research Paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)**
-
-<hr/>
-
-<!-- **3.**  -->
-### **[Git User Manual](https://derkling.matbug.net/_media/teaching:2010:gitusermanual.pdf)**
-Torvalds, Linus, J. Hamano, and J. Pearce. \
-2010.
-
-**[Git](https://www2.dmst.aueb.gr/dds/pubs/jrnl/2005-IEEESW-TotT/html/v29n3.pdf)** <br/>
-Spinellis, Diomidis. \
-IEEE software 29.3 (2012): 100-101.
 
 <hr/>
 

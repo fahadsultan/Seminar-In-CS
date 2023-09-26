@@ -24,9 +24,11 @@ In addition to our seminar discussions, many class sessions will be devoted to i
 
 The steps of your project are to mirror the steps of the scientific method:
 
-1. **Identify a question** that you want to answer. **Due September 15**{: .label .label-red }
-2. **Conduct a literature search** to see what others have done. **Due October 1**{: .label .label-red }
-3. **Identify a data set (evidence)** that will help you answer the question. **Due October 15**{: .label .label-red }
+1. **Identify a question** that you want to answer. [Project Preproposal]()**Due September 15**{: .label .label-red }
+
+2. **Identify a data set (evidence)** that will help you answer the question. [Project Proposal]()**Due September 15**{: .label .label-red }
+
+3. **[Conduct a literature search]()** to see what others have done. **Due October 1**{: .label .label-red }
 4. **Identify a model (hypothesis)** that will help you answer the question. **Due November 1**{: .label .label-red }
 5. **Analyze the results** using the model and data. **Due November 15**{: .label .label-red }
 6. **Draw conclusions** from the results. **Due December 1**{: .label .label-red }
