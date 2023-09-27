@@ -21,6 +21,15 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 
 <!-- ## Announcements -->
 
+{: .deadline }
+**[Literature Review](https://docs.google.com/document/d/1EEvQ-KIendOy5tNeTyO6JuYLzf9Xfkc8_ygL84kQ4uc/edit?usp=sharing) (link)**
+<br/> Part 1 Due: Friday, **September 29th, 2023** 11:59 PM <br/>
+Part 2 Due: Friday, **October 6th, 2023**  11:59 PM
+
+
+{: .deadline }
+**Next Reflection**: **[Paywall: The Business of Scholarship](https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered)**  (link)  and **[The Internet’s Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz)** (link) due Friday, **October 6th, 2023  11:59 PM**
+
 {: .notice }
 **[All Tutorials from class](http://fahadsultan.com/potpourri/)**
 
