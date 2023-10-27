@@ -109,7 +109,23 @@ _The Internet's Own Boy_  includes content involving depression, self-harm, and 
 
 <hr/>
 
+## Current 
+
+### **[2023 Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/2023/)**
+
+* **[TIOBE index](https://www.tiobe.com/tiobe-index/)**
+
+### **[GitHub Copilot AI pair programmer: Asset or Liability?](https://arxiv.org/pdf/2206.15331)**<br/>
+Dakhel, Arghavan Moradi, et al. \
+arXiv preprint arXiv:2206.15331 (2022).
+
+### **[An Empirical Evaluation of GitHub copilot's code suggestions](https://dl.acm.org/doi/abs/10.1145/3524842.3528470)**<br/>
+Nguyen, Nhan, and Sarah Nadi. \
+Proceedings of the 19th International Conference on Mining Software Repositories. 2022.
+
 ## Future
+
+* **[Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)**
 
 ### **[You Get What You Measure](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)**<br/>
 Richard R. Hamming,\
@@ -182,13 +198,6 @@ Decentralized business review (2008): 21260.
 <hr/> -->
 
 
-* Dakhel, Arghavan Moradi, et al.\
-**[GitHub Copilot AI pair programmer: Asset or Liability?](https://arxiv.org/pdf/2206.15331)**<br/>
-arXiv preprint arXiv:2206.15331 (2022).
-
-* Nguyen, Nhan, and Sarah Nadi.\
-**[An Empirical Evaluation of GitHub copilot's code suggestions](https://dl.acm.org/doi/abs/10.1145/3524842.3528470)**<br/>
-Proceedings of the 19th International Conference on Mining Software Repositories. 2022.
 
 * Dwivedi, Yogesh K., et al.\
 **[“So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy](https://www.sciencedirect.com/science/article/pii/S0268401223000233)**,<br/>
@@ -275,12 +284,6 @@ CERN, 1989
 2012 28th IEEE International Conference on Software Maintenance (ICSM). IEEE, 2012.
 
 <hr/>
-
-* **[Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)**
-
-* **[Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)**
-
-* **[TIOBE index](https://www.tiobe.com/tiobe-index/)**
 
 
 * Dijkstra, Edger W. \
