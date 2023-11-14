@@ -109,7 +109,6 @@ _The Internet's Own Boy_  includes content involving depression, self-harm, and 
 
 <hr/>
 
-## Current 
 
 ### **[2023 Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/2023/)**
 
@@ -122,6 +121,16 @@ arXiv preprint arXiv:2206.15331 (2022).
 ### **[An Empirical Evaluation of GitHub copilot's code suggestions](https://dl.acm.org/doi/abs/10.1145/3524842.3528470)**<br/>
 Nguyen, Nhan, and Sarah Nadi. \
 Proceedings of the 19th International Conference on Mining Software Repositories. 2022.
+
+## Current 
+
+<hr/>
+
+{: .warning }
+
+### **[Anatomy of an AI System](https://anatomyof.ai/)**
+* Crawford, K., & Joler, V. (2018).\
+Retrieved September, 18, 2018.
 
 ## Future
 
@@ -138,15 +147,13 @@ _Weapons of Math Destruction_, Crown, 2016.
 <hr/>
 
 <!-- **2.**  -->
-### **[How to Read a Paper](https://www.albany.edu/spatial/training/3-How%20to%20read%20a%20paper.pdf)**<br/>
+<!-- ### **[How to Read a Paper](https://www.albany.edu/spatial/training/3-How%20to%20read%20a%20paper.pdf)**<br/>
 Srinivasan Keshav,\
 _ACM SIGCOMM Computer Communication Review_ 37.3 (2007): 83-84.
 
 Mitzenmacher, M.,\
 **[How to Read a Research Paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)**
-
-<hr/>
-
+ -->
 
 
 
@@ -172,10 +179,6 @@ arXiv preprint arXiv:1801.00631 (2018).
 
 <hr/>
 
-### **[Anatomy of an AI System](https://cache.fluxo.info/data/4c/ab/4cab5c66a9e44e27f58dd79918f489d7ed08da09/screenshot.pdf)**
-* Crawford, K., & Joler, V. (2018).\
-Retrieved September, 18, 2018.
-
 * Bender, Emily M., et al.\
 **[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)** <br/> _Proceedings of the 2021 ACM conference on fairness, accountability, and transparency_. 2021. 
 
@@ -199,7 +202,7 @@ Decentralized business review (2008): 21260.
 
 
 
-* Dwivedi, Yogesh K., et al.\
+<!-- * Dwivedi, Yogesh K., et al.\
 **[“So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy](https://www.sciencedirect.com/science/article/pii/S0268401223000233)**,<br/>
 International Journal of Information Management 71 (2023): 102642.
 
@@ -214,7 +217,7 @@ Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. \
 **[Predicting Poverty and Wealth from Mobile Phone Metadata](https://dlab.epfl.ch/teaching/spring2019/cs718/papers/blumenstock2015predicting.pdf)**<br/>
 Science 350.6264 (2015): 1073-1076.
 
-<hr/>
+<hr/> -->
 
 
 * Richard R. Hamming,\
@@ -227,7 +230,7 @@ _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 _The Art of Doing Science and Engineering: Learning to Learn_, CRC Press, 1997.
 
 ---
-
+<!-- 
 ### **[Science of Science](https://www.science.org/doi/full/10.1126/science.aao0185)**<br/>
 Fortunato, S., Bergstrom, C. T.,  ... & Barabási, A. L. (2018). \
 _Science_, 359(6379), eaao0185.
@@ -236,9 +239,9 @@ _Science_, 359(6379), eaao0185.
 **[Misinformation in and about science](https://www.pnas.org/doi/full/10.1073/pnas.1912444117)**. <br/> 
 _Proceedings of the National Academy of Sciences_ 118.15 (2021): e1912444117.
 
-<hr/>
+<hr/> -->
 
-* Ley, Michael. \
+<!-- * Ley, Michael. \
 **[The DBLP computer science bibliography: Evolution, research issues, perspectives.](https://link.springer.com/chapter/10.1007/3-540-45735-6_1)** <br/>
 String Processing and Information Retrieval: 9th International Symposium, SPIRE 2002 Lisbon, Portugal, September 11–13, 2002 Proceedings 9. Springer Berlin Heidelberg, 2002.
 
@@ -246,16 +249,16 @@ String Processing and Information Retrieval: 9th International Symposium, SPIRE 
 **[DBLP: some lessons learned](https://dl.acm.org/doi/abs/10.14778/1687553.1687577?casa_token=w-XI6piavuMAAAAA%3AXYmmUBGnxlgrcv7pFU_av6t4XfAJFkNAR6Oi01cimIkt80KwsahPalhnYplbqv5f3RevxGv88og)** <br/>
 _Proceedings of the VLDB Endowment_ 2.2 (2009): 1493-1500.
 
-<hr/>
+<hr/> -->
 
-
+<!-- 
 ### **Computational Social Science**
 
 * Lazer, David, et al. "[Computational social science](https://www.science.org/doi/full/10.1126/science.1167742)." Science 323.5915 (2009): 721-723.
 
 * Wallach, Hanna. "[Computational social science≠ computer science+ social data](https://dl.acm.org/doi/fullHtml/10.1145/3132698)." Communications of the ACM 61.3 (2018): 42-44.
 
-* Zhang, Jun, et al. ["Data-driven computational social science: A survey."](https://arxiv.org/pdf/2008.12372.pdf) Big Data Research 21 (2020): 100145.
+* Zhang, Jun, et al. ["Data-driven computational social science: A survey."](https://arxiv.org/pdf/2008.12372.pdf) Big Data Research 21 (2020): 100145. -->
 
 <!--- ### **Seminal Papers** 
 
@@ -278,7 +281,7 @@ CERN, 1989
 
 <hr/> --->
 
-
+<!-- 
 * Nasehi, Seyed Mehdi, et al.\
 **[What makes a good code example?: A study of programming Q&A in StackOverflow](https://ieeexplore.ieee.org/abstract/document/6405249)**<br/>
 2012 28th IEEE International Conference on Software Maintenance (ICSM). IEEE, 2012.
@@ -288,4 +291,4 @@ CERN, 1989
 
 * Dijkstra, Edger W. \
 **[On the Cruelty of Really Teaching Computing Science](https://www.psy.gla.ac.uk/~steve/educ/dijk/EWD1036.v4.pdf)**, <br/>
-Communications of the ACM 32.12 (1989): 1398-1404.
+Communications of the ACM 32.12 (1989): 1398-1404. -->

@@ -22,19 +22,12 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 <!-- ## Announcements -->
 
 {: .deadline }
-**Project Website with Bokeh plot** <br/>**Due Monday, October 30th, 2023 11:59 PM**
-
-
-{: .deadline }
-**[2023 Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/2023/)**
-<br/>Reflection due **Tuesday, October 31st, 2023 2:30 PM**
-
+**[Poster Template](https://docs.google.com/presentation/d/12WyL8m-YKPqiJ7r9GkSo76Du0YdzAppPeT3xjPy1yj0/edit?usp=sharing)**
 
 {: .deadline }
-**[GitHub Copilot AI pair programmer: Asset or Liability?](https://arxiv.org/pdf/2206.15331)**
-<br/>
-**[An Empirical Evaluation of GitHub copilot's code suggestions](https://dl.acm.org/doi/abs/10.1145/3524842.3528470)**<br/>
-<br/>Reflection due **Thursday, November, 2nd 2023 2:30 PM**
+**[CSC-475 Preliminary Report](https://www.overleaf.com/read/zncrzrtqppsk#e9cf6b)**
+<br/>due Monday, 20th November 11:59 PM
+
 
 {: .notice }
 **[All Tutorials from class](http://fahadsultan.com/potpourri/)**
