@@ -21,6 +21,13 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 
 <!-- ## Announcements -->
 
+
+{: .deadline }
+Next Reflection: **[Anatomy of an AI System](https://anatomyof.ai/)** <br/><br/>
+Please make sure to carefully read both: **1. [Visualization](https://anatomyof.ai/img/ai-anatomy-map.pdf)** **AND 2. the text** (scroll down on the link above). 
+Alternatively, watch **Dr. Kate Crawford**'s **[video lecture 🎥](https://www.youtube.com/watch?v=uM7gqPnmDDc&t=2541s&ab_channel=UNSW)** on the subject
+<br/><br/>due Tuesday, 21st November 2:30 PM
+
 {: .deadline }
 **[Poster Template](https://docs.google.com/presentation/d/12WyL8m-YKPqiJ7r9GkSo76Du0YdzAppPeT3xjPy1yj0/edit?usp=sharing)**
 

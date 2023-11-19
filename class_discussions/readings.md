@@ -129,8 +129,15 @@ Proceedings of the 19th International Conference on Mining Software Repositories
 {: .warning }
 
 ### **[Anatomy of an AI System](https://anatomyof.ai/)**
-* Crawford, K., & Joler, V. (2018).\
+
+Please make sure to carefully read both: **1. [Visualization](https://anatomyof.ai/img/ai-anatomy-map.pdf)** **AND 2. the text** (scroll down on the link above).
+
+Alternatively, watch **Dr. Kate Crawford**'s **[video lecture 🎥](https://www.youtube.com/watch?v=uM7gqPnmDDc&t=2541s&ab_channel=UNSW)** on the subject. 
+
+Crawford, K., & Joler, V. (2018).\
 Retrieved September, 18, 2018.
+
+
 
 ## Future
 
