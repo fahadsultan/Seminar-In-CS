@@ -32,11 +32,6 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 **[CSC-475 Final Report](https://www.overleaf.com/read/zncrzrtqppsk#e9cf6b)**
 <br/>due Friday, 8th December 2:30 PM
 
-{: .deadline }
-**[CSC-475 Final Project ](https://www.overleaf.com/read/zncrzrtqppsk#e9cf6b)**
-<br/>due Friday, 8th December 2:30 PM
-
-
 {: .notice }
 **[All Tutorials from class](http://fahadsultan.com/potpourri/)**
 
