@@ -23,17 +23,18 @@ I am excited to talk all things Computer Science 💻 🤖 📊 🌐  in this co
 
 
 {: .deadline }
-Next Reflection: **[Anatomy of an AI System](https://anatomyof.ai/)** <br/><br/>
-Please make sure to carefully read both: **1. [Visualization](https://anatomyof.ai/img/ai-anatomy-map.pdf)** **AND 2. the text** (scroll down on the link above). 
-Alternatively, watch **Dr. Kate Crawford**'s **[video lecture 🎥](https://www.youtube.com/watch?v=uM7gqPnmDDc&t=2541s&ab_channel=UNSW)** on the subject
-<br/><br/>due Tuesday, 21st November 2:30 PM
-
-{: .deadline }
 **[Poster Template](https://docs.google.com/presentation/d/12WyL8m-YKPqiJ7r9GkSo76Du0YdzAppPeT3xjPy1yj0/edit?usp=sharing)**
 
 {: .deadline }
-**[CSC-475 Preliminary Report](https://www.overleaf.com/read/zncrzrtqppsk#e9cf6b)**
-<br/>due Monday, 20th November 11:59 PM
+**[Presentation Template](https://docs.google.com/presentation/d/1y4OMQq9ChapHJF-cUaYQa6J7IUvhlgL5Z-AJ8MRbJis/edit?usp=sharing)**
+
+{: .deadline }
+**[CSC-475 Final Report](https://www.overleaf.com/read/zncrzrtqppsk#e9cf6b)**
+<br/>due Friday, 8th December 2:30 PM
+
+{: .deadline }
+**[CSC-475 Final Project ](https://www.overleaf.com/read/zncrzrtqppsk#e9cf6b)**
+<br/>due Friday, 8th December 2:30 PM
 
 
 {: .notice }
